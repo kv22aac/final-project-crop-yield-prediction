@@ -2,6 +2,9 @@ The intention of this research is to solve the prediction challenges of increasi
 
 Data Handling and Preparation: The study demonstrates how to handle missing values, normalize data, and encode categorical variables one-hot.
 Visualization and Analysis: To explain correlations between variables like rainfall, pesticide use, and crop production, exploratory data analysis (EDA) includes distribution plots and correlation heatmaps.
+
 Modeling: Several models, such as XGBoost, Decision Trees, Support Vector Regression, and Linear Regression, are examined. Metrics like Mean Squared Error (MSE) and R-Squared are used in assessing models.
+
 These are the methodologies used in this project.
+
 from this study we can see that machine learning models like Decision Trees and XGBoost are effective in predicting crop yields, and that geographical factors play a crucial role in agricultural productivity.
