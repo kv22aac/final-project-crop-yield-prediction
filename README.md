@@ -7,4 +7,4 @@ Modeling: Several models, such as XGBoost, Decision Trees, Support Vector Regre
 
 These are the methodologies used in this project.
 
-from this study we can see that machine learning models like Decision Trees and XGBoost are effective in predicting crop yields, and that geographical factors play a crucial role in agricultural productivity.
+From this study we can see that machine learning models like Decision Trees and XGBoost are effective in predicting crop yields, and that geographical factors play a crucial role in agricultural productivity.
